@@ -1,5 +1,15 @@
+# UE file structure
+Content/Collections/*
+Content/Developers/*
+Content/Geometry/*
+Content/Mannequin/*
+Content/StarterContent/*
+Intermediate/*
+Saved/*
+
 # Visual Studio 2015 user specific files
 .vs/
+.idea/
 
 # Compiled Object files
 *.slo
